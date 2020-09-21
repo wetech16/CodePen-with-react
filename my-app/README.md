@@ -12,4 +12,14 @@ How to Build CodePen with React
 -override CodeMirror
 -code-mirror-wrapper
 
--Functionality -[ ] SrcDoc passed to iframe to display html,css,javascript -[ ] setTimeout() for SrcDoc -[ ] useEffect for setTimeout
+-[ ]Functionality
+-SrcDoc passed to iframe to display html,css,javascript
+-setTimeout() for SrcDoc
+-useEffect for setTimeout
+
+-[ ] open close Button
+-open state for collapsed css class
+-onclick to change state
+-add close/open Icon: npm i @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons @fortawesome/fontawesome-svg-core
+
+-
