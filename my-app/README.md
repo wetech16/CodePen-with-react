@@ -2,11 +2,11 @@ How to Build CodePen with React
 
 ## Code Setup 
   - [ ] npm i codemirror react-codemirror2 text editor 
-  -[ ] components: <Editor> & <iframe>
+  - [ ] components: <Editor> & <iframe>
 
 ## Editor Setup 
-  -[ ] components Editor: <displayName> & O/C button 
-  -[ ] components Editor: <ControlledEditor>
+  - [ ] components Editor: <displayName> & O/C button 
+  - [ ] components Editor: <ControlledEditor>
 
 ## CSS
 -body
@@ -16,14 +16,14 @@ How to Build CodePen with React
 -override CodeMirror
 -code-mirror-wrapper
 
--[ ]Functionality
+## Functionality
 -SrcDoc passed to iframe to display html,css,javascript
 -setTimeout() for SrcDoc
 -useEffect for setTimeout
 
--[ ] open close Button
+## open close Button
 -open state for collapsed css class
 -onclick to change state
 -add close/open Icon: npm i @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons @fortawesome/fontawesome-svg-core
 
--
+
