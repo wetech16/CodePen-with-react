@@ -1,30 +1,3 @@
-
-## Code Setup 
-  - [ ] npm i codemirror react-codemirror2
-  - [ ] components: <Editor> & <iframe>
-
-## Editor Setup 
-  - [ ] components Editor: <displayName> & O/C button 
-  - [ ] components Editor: <ControlledEditor>
-
-## CSS
--body
--top pane
--pane
--editor
--override CodeMirror
--code-mirror-wrapper
-
-## Functionality
--SrcDoc passed to iframe to display html,css,javascript
--setTimeout() for SrcDoc
--useEffect for setTimeout
-
-## open close Button
--open state for collapsed css class
--onclick to change state
--add close/open Icon: npm i @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons @fortawesome/fontawesome-svg-core
-
 # How to Build CodePen with React
 
 ## VSCODE 
@@ -47,6 +20,7 @@
 -----
 - FontAwesomeIcon: Icons from Fortawesome github: react-fontawesome
 - useLocalStorage: custom hook
+- Controlled: npm install codemirror react-codemirror2
 
 ## CSS
 - flex-grow
